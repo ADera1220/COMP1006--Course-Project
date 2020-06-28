@@ -1,0 +1,12 @@
+/* Inputing some basic styles for aesthtics */
+
+html {
+  background-color: #A84745;
+  color: #34A859;
+}
+
+form {
+  border: 2px solid #A86867;
+  border-radius: 20px;
+  padding: 10px;
+}
